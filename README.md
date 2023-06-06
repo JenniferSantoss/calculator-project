@@ -1,3 +1,7 @@
+# Project Preview
+[Calculadora-funcionando.webm](https://github.com/JenniferSantoss/calculator-project/assets/123119520/5e49ac38-9b78-43d8-9e9f-1f844cea6f79)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
